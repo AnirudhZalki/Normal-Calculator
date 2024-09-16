@@ -27,3 +27,5 @@ function a()
 			}
 
 			alert(result)
+
+			document.getElementById('demo').innerHTML=result
